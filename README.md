@@ -44,7 +44,7 @@ Features:
 - `Serum_sodium`: 	Level of serum sodium in blood
 - `Smoking`: Whether the patient smokes
 - `Time`: Follow-up period (in days)
-- `Death_Event`:
+- `Death_Event`: Target variable – patient death during follow-up (1/0)
 
 Source:
 This dataset is available publicly and has been used for heart failure prediction tasks in various research.
